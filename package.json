@@ -11,9 +11,9 @@
   },
   "dependencies": {
     "@astrojs/starlight": "^0.42.2",
-    "@xingwangzhe/satteri-mermaid": "^0.7.8",
     "accessibility": "^6.1.0",
     "astro": "^7.2.10",
+    "astro-mermaid": "^2.1.0",
     "astro-mermaid-renderer": "^0.1.2",
     "sharp": "^0.35.3"
   },
