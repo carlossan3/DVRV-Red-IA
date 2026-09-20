@@ -1,3 +1,7 @@
+---
+title: "U05 — Aprendizaje computacional y aprendizaje por refuerzo"
+---
+
 # UT05 — ML-Agents Training Arena
 ## Apuntes de referencia completos
 ### Aprendizaje computacional y por refuerzo aplicado a videojuegos

@@ -1,3 +1,7 @@
+---
+title: "U04 — Inteligencia artificial aplicada: percepción, decisión y navegación"
+---
+
 # UT04 — Tanks AI Lab
 ## Apuntes de referencia
 

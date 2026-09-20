@@ -1,3 +1,7 @@
+---
+title: "U03 — Autoridad, estado discreto y validación"
+---
+
 # UT03 — Conecta 4 NGO
 ## Apuntes de referencia
 
