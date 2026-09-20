@@ -1,0 +1,35 @@
+---
+import Default from '@astrojs/starlight/components/ThemeProvider.astro';
+import type { Props } from '@astrojs/starlight/props';
+---
+<!-- Mantenemos el funcionamiento normal de Starlight -->
+<Default {...Astro.props} />
+
+<!-- Dejamos que Astro empaquete y traduzca el widget automáticamente -->
+<script>
+  import { Accessibility } from 'accessibility';
+
+  window.addEventListener('load', () => {
+    new Accessibility({
+      labels: {
+        resetTitle: 'Restablecer',
+        closeTitle: 'Cerrar',
+        menuTitle: 'Accesibilidad',
+        increaseText: 'Aumentar texto',
+        decreaseText: 'Disminuir texto',
+        increaseTextSpacing: 'Aumentar espaciado',
+        decreaseTextSpacing: 'Disminuir espaciado',
+        increaseLineHeight: 'Aumentar interlineado',
+        decreaseLineHeight: 'Disminuir interlineado',
+        invertColors: 'Invertir colores',
+        grayHues: 'Escala de grises',
+        underlineLinks: 'Subrayar enlaces',
+        bigCursor: 'Cursor grande',
+        readingGuide: 'Guía de lectura',
+        textToSpeech: 'Lector de pantalla',
+        speechToText: 'Dictado por voz',
+        disableAnimations: 'Detener animaciones'
+      }
+    });
+  });
+</script>

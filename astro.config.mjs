@@ -1,26 +1,30 @@
-// @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
-// https://astro.build/config
 export default defineConfig({
-	integrations: [
-		starlight({
-			title: 'My Docs',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
-			sidebar: [
-				{
-					label: 'Guides',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
-					],
-				},
-				{
-					label: 'Reference',
-					items: [{ autogenerate: { directory: 'reference' } }],
-				},
-			],
-		}),
-	],
+  site: 'https://carlossan3.github.io',
+  base: '/DVRV-Red-IA',
+
+  integrations: [
+    starlight({
+      title: 'Red e IA',
+
+      description:
+        'Apuntes de Programación en Red e IA del Curso de Especialización en Desarrollo de Videojuegos y Realidad Virtual',
+
+      locales: {
+        root: {
+          label: 'Español',
+          lang: 'es',
+        },
+      },
+
+      defaultLocale: 'root',
+      tableOfContents: false,
+
+      components: {
+        ThemeProvider: './src/components/Accesibilidad.astro',
+      },
+    }),
+  ],
 });
