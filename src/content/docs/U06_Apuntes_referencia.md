@@ -3,8 +3,9 @@ title: "U06 — Servicios de Internet para videojuegos en línea"
 ---
 
 ## Apuntes de referencia completos
-### Servicios de Internet para partidas online
 
+**Módulo:** Programación en red e Inteligencia Artificial  
+**Curso de Especialización:** Desarrollo de Videojuegos y Realidad Virtual
 **Baseline técnico:** Unity `6000.3.13f1` · Netcode for GameObjects `2.7.0` · Unity Transport `2.6.0` · Multiplayer Services `2.2.1` · Authentication `3.6.1` · uGUI `2.0.0` · Unity Version Control (UVCS)
 
 > **Nota de versión:** Multiplayer Services evoluciona con rapidez. Los nombres exactos de propiedades, tipos y overloads deben comprobarse siempre contra la versión realmente instalada en el proyecto antes de copiar código de referencia.

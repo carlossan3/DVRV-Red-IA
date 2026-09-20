@@ -6,7 +6,6 @@ title: "U02 — Multijugador en tiempo real, ownership y sincronización"
 
 **Módulo:** Programación en red e Inteligencia Artificial  
 **Curso de Especialización:** Desarrollo de Videojuegos y Realidad Virtual  
-**Unidad:** UT02  
 **Proyecto:** **Pong NGO**  
 **Tecnología:** Unity 2D + C# + Netcode for GameObjects
 

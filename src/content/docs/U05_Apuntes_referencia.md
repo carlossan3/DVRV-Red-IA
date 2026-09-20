@@ -3,8 +3,9 @@ title: "U05 — Aprendizaje computacional y aprendizaje por refuerzo"
 ---
 
 ## Apuntes de referencia completos
-### Aprendizaje computacional y por refuerzo aplicado a videojuegos
 
+**Módulo:** Programación en red e Inteligencia Artificial  
+**Curso de Especialización:** Desarrollo de Videojuegos y Realidad Virtual  
 **Baseline técnico:** Unity `6000.3.13f1` · ML-Agents Unity `4.0.0` · Python `3.10.12` · `mlagents==1.1.0` · Unity Version Control (UVCS)
 
 ---
