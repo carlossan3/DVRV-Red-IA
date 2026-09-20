@@ -4,7 +4,7 @@ title: "U01 — Fundamentos de programación en red"
 
 ## Apuntes de referencia
 
-**Proyecto de la UT:** Basic NGO 
+**Proyecto de la UT:** `Basic NGO` 
 **Tecnología:** Unity + C# + Netcode for GameObjects (NGO)
 
 

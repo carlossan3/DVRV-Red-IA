@@ -4,7 +4,7 @@ title: "U03 — Autoridad, estado discreto y validación"
 
 ## Apuntes de referencia
 
-**Proyecto:** Conecta 4 NGO  
+**Proyecto:** `Conecta 4 NGO`
 **Tecnología:** Unity + C# + Netcode for GameObjects (NGO)
 
 ---
