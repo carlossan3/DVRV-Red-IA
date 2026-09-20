@@ -1,5 +1,5 @@
 ---
-title: "U04 — Inteligencia artificial aplicada: percepción, decisión y navegación"
+title: "U04 — Inteligencia artificial aplicada"
 ---
 
 ## Apuntes de referencia

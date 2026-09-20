@@ -1,5 +1,5 @@
 ---
-title: "U01 — Fundamentos de programación en red y primer proyecto NGO"
+title: "U01 — Fundamentos de programación en red"
 ---
 
 ## Apuntes de referencia
