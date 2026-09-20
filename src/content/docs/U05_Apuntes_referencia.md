@@ -1,5 +1,5 @@
 ---
-title: "U05 — Aprendizaje computacional y aprendizaje por refuerzo"
+title: "U05 — Aprendizaje por refuerzo"
 ---
 
 ## Apuntes de referencia completos

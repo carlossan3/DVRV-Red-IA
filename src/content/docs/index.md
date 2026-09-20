@@ -19,14 +19,14 @@ El curso comienza con los fundamentos de la programación multijugador y la arqu
 
 ### 1.ª evaluación
 
-- **U01 · Fundamentos de programación en red y primer proyecto NGO** — RA1
+- **U01 · Fundamentos de programación en red** — RA1
 - **U02 · Multijugador en tiempo real, ownership y sincronización** — RA2
 - **U03 · Autoridad, estado discreto y validación** — RA1
 
 ### 2.ª evaluación
 
-- **U04 · Inteligencia artificial aplicada: percepción, decisión y navegación** — RA5
-- **U05 · Aprendizaje computacional y aprendizaje por refuerzo** — RA4
+- **U04 · Inteligencia artificial aplicada** — RA5
+- **U05 · Aprendizaje por refuerzo** — RA4
 
 ### 3.ª evaluación
 
@@ -37,13 +37,13 @@ El curso comienza con los fundamentos de la programación multijugador y la arqu
 
 ## Unidades de trabajo
 
-### U01 · Fundamentos de programación en red y primer proyecto NGO
+### U01 · Fundamentos de programación en red
 
 **RA1**
 
 Arquitectura cliente-servidor, cliente, servidor, host, servidor dedicado, estado, autoridad, NetworkManager, NetworkObject, NetworkBehaviour, ownership, NetworkVariable, conexión, desconexión y diagnóstico básico.
 
-Proyecto de referencia: **Basic NGO — Networked Player Cards**.
+Proyecto de referencia: **Basic NGO**.
 
 [👉 Acceder a la U01](/DVRV-Red-IA/u01_apuntes_referencia/)
 
@@ -85,7 +85,7 @@ Proyecto de referencia: **Tanks AI Lab**.
 
 ---
 
-### U05 · Aprendizaje computacional y aprendizaje por refuerzo
+### U05 · Aprendizaje por refuerzo
 
 **RA4**
 
@@ -111,7 +111,7 @@ Proyecto de referencia: **Pong Online**.
 
 ## Proyectos principales
 
-1. **Basic NGO — Networked Player Cards**  
+1. **Basic NGO**  
    Fundamentos de arquitectura cliente-servidor, lifecycle, ownership y estado sincronizado.
 
 2. **Pong NGO**  
