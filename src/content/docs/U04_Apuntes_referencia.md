@@ -5,6 +5,7 @@ title: "U04 — Inteligencia artificial aplicada"
 ## Apuntes de referencia
 
 **Proyecto:** `Tanks AI Lab`  
+
 **Tecnología:** Unity + C# + AI Navigation
 
 ---

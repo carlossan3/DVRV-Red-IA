@@ -4,7 +4,8 @@ title: "U05 — Aprendizaje computacional y aprendizaje por refuerzo"
 
 ## Apuntes de referencia completos
 
-**Proyecto:** `ML-Agents Training Arena`  
+**Proyecto:** `ML-Agents Training Arena`
+  
 **Baseline técnico:** Unity `6000.3.13f1` · ML-Agents Unity `4.0.0` · Python `3.10.12` · `mlagents==1.1.0` · Unity Version Control (UVCS)
 
 ---

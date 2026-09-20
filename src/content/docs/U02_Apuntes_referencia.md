@@ -5,6 +5,7 @@ title: "U02 — Multijugador en tiempo real, ownership y sincronización"
 ## Apuntes de referencia
 
 **Proyecto:** `Pong NGO`
+
 **Tecnología:** Unity 2D + C# + Netcode for GameObjects
 
 ---
