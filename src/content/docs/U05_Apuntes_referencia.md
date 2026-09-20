@@ -5,7 +5,7 @@ title: "U05 — Aprendizaje computacional y aprendizaje por refuerzo"
 ## Apuntes de referencia completos
 
 **Proyecto:** `ML-Agents Training Arena`
-  
+
 **Baseline técnico:** Unity `6000.3.13f1` · ML-Agents Unity `4.0.0` · Python `3.10.12` · `mlagents==1.1.0` · Unity Version Control (UVCS)
 
 ---
@@ -214,21 +214,21 @@ public override void OnActionReceived(ActionBuffers actions)
 public override void Heuristic(in ActionBuffers actionsOut)
 ```
 
-### `OnEpisodeBegin()`
+#### `OnEpisodeBegin()`
 
 Prepara un nuevo episodio.
 
 Debe garantizar que el entorno queda en un estado válido.
 
-### `CollectObservations(...)`
+#### `CollectObservations(...)`
 
 Define qué información recibe la política.
 
-### `OnActionReceived(...)`
+#### `OnActionReceived(...)`
 
 Interpreta las acciones producidas por la política y las aplica al agente.
 
-### `Heuristic(...)`
+#### `Heuristic(...)`
 
 Permite producir acciones manualmente.
 

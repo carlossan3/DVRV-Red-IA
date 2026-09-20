@@ -1071,7 +1071,7 @@ Estas necesidades quedan fuera del núcleo de la UT.
 
 ---
 
-## 38. No convertir U06 en matchmaking avanzado
+## 38. U06 no es matchmaking avanzado
 
 Fuera del núcleo:
 
