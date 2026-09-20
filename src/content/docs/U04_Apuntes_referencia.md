@@ -4,8 +4,6 @@ title: "U04 — Inteligencia artificial aplicada"
 
 ## Apuntes de referencia
 
-**Módulo:** Programación en red e Inteligencia Artificial  
-**Curso de Especialización:** Desarrollo de Videojuegos y Realidad Virtual
 **Proyecto:** `Tanks AI Lab`  
 **Tecnología:** Unity + C# + AI Navigation
 

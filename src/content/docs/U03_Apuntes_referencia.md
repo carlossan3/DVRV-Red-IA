@@ -4,8 +4,6 @@ title: "U03 — Autoridad, estado discreto y validación"
 
 ## Apuntes de referencia
 
-**Módulo:** Programación en red e Inteligencia Artificial  
-**Curso de Especialización:** Desarrollo de Videojuegos y Realidad Virtual  
 **Proyecto:** Conecta 4 NGO  
 **Tecnología:** Unity + C# + Netcode for GameObjects (NGO)
 

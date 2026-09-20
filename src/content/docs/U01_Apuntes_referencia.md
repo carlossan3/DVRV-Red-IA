@@ -4,8 +4,6 @@ title: "U01 — Fundamentos de programación en red"
 
 ## Apuntes de referencia
 
-**Módulo:** Programación en red e Inteligencia Artificial  
-**Curso de Especialización:** Desarrollo de Videojuegos y Realidad Virtual  
 **Proyecto de la UT:** Basic NGO 
 **Tecnología:** Unity + C# + Netcode for GameObjects (NGO)
 
