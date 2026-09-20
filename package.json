@@ -13,6 +13,7 @@
     "@astrojs/starlight": "^0.42.2",
     "accessibility": "^6.1.0",
     "astro": "^7.2.10",
+    "astro-mermaid-renderer": "^0.1.2",
     "sharp": "^0.35.3"
   },
   "allowScripts": {
