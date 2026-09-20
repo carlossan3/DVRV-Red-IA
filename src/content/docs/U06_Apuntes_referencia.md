@@ -2,7 +2,6 @@
 title: "U06 — Servicios de Internet para videojuegos en línea"
 ---
 
-# UT06 — Pong Online: Sessions + Relay + NGO
 ## Apuntes de referencia completos
 ### Servicios de Internet para partidas online
 

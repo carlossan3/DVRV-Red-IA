@@ -2,7 +2,6 @@
 title: "U02 — Multijugador en tiempo real, ownership y sincronización"
 ---
 
-# UT02 — Pong NGO: tiempo real, ownership y sincronización
 ## Apuntes de referencia
 
 **Módulo:** Programación en red e Inteligencia Artificial  
