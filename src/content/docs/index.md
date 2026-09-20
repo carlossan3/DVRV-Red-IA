@@ -11,7 +11,7 @@ Apuntes del módulo **Programación en red e Inteligencia Artificial** del **Cur
 
 El curso comienza con los fundamentos de la programación multijugador y la arquitectura cliente-servidor, continúa con sincronización, autoridad y validación en videojuegos en red, y avanza hacia inteligencia artificial aplicada, aprendizaje por refuerzo y servicios online para partidas.
 
-[Acceder a la U01](/DVRV-Red-IA/U01_Apuntes_referencia/)
+[Acceder a la U01](/DVRV-Red-IA/u01_apuntes_referencia/)
 
 ---
 
@@ -45,7 +45,7 @@ Arquitectura cliente-servidor, cliente, servidor, host, servidor dedicado, estad
 
 Proyecto de referencia: **Basic NGO — Networked Player Cards**.
 
-[👉 Acceder a la U01](/DVRV-Red-IA/U01_Apuntes_referencia/)
+[👉 Acceder a la U01](/DVRV-Red-IA/u01_apuntes_referencia/)
 
 ---
 
@@ -57,7 +57,7 @@ Ownership, input local, sincronización de transformaciones, servidor autoritati
 
 Proyecto de referencia: **Pong NGO**.
 
-[👉 Acceder a la U02](/DVRV-Red-IA/U02_Apuntes_referencia/)
+[👉 Acceder a la U02](/DVRV-Red-IA/u02_apuntes_referencia/)
 
 ---
 
@@ -69,7 +69,7 @@ Serialización, servidor como fuente de verdad, petición cliente-servidor, vali
 
 Proyecto de referencia: **Conecta 4 NGO**.
 
-[👉 Acceder a la U03](/DVRV-Red-IA/U03_Apuntes_referencia/)
+[👉 Acceder a la U03](/DVRV-Red-IA/u03_apuntes_referencia/)
 
 ---
 
@@ -81,7 +81,7 @@ Vectores y percepción, campo de visión, raycast, memoria de percepción, máqu
 
 Proyecto de referencia: **Tanks AI Lab**.
 
-[👉 Acceder a la U04](/DVRV-Red-IA/U04_Apuntes_referencia/)
+[👉 Acceder a la U04](/DVRV-Red-IA/u04_apuntes_referencia/)
 
 ---
 
@@ -93,7 +93,7 @@ Aprendizaje automático, aprendizaje por refuerzo, agente, entorno, política, e
 
 Proyecto de referencia: **ML-Agents Training Arena**.
 
-[👉 Acceder a la U05](/DVRV-Red-IA/U05_Apuntes_referencia/)
+[👉 Acceder a la U05](/DVRV-Red-IA/u05_apuntes_referencia/)
 
 ---
 
@@ -105,7 +105,7 @@ Establecimiento de partidas, publicación y descubrimiento, listado de partidas 
 
 Proyecto de referencia: **Pong Online**.
 
-[👉 Acceder a la U06](/DVRV-Red-IA/U06_Apuntes_referencia/)
+[👉 Acceder a la U06](/DVRV-Red-IA/u06_apuntes_referencia/)
 
 ---
 
@@ -159,10 +159,9 @@ Proyecto de referencia: **Pong Online**.
 
 ## Licencia
 
-[![CC BY-SA 4.0](/DVRV-Red-IA/cc-by-sa.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.es)
+[![CC BY-SA 4.0](/DVRV-Red-IA/CC_BY-SA_icon.svg.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.es)
 
-**CC BY-SA 4.0 — Carlos Sanchez y Virginia Zornoza**
+**CC BY-SA 4.0 — Carlos Sanchez**
 
 Puedes compartir y adaptar este material, siempre que reconozcas la autoría y compartas las modificaciones bajo la misma licencia.
 
-Basado en el proyecto de Redes para ASIR de [Sergi Garcia Barea](https://sergarb1.github.io/ApuntesRedes).
