@@ -417,3 +417,69 @@ html[data-theme="dark"],
   --_access-menu-item-active-icon-color: #ffffff !important;
   --_access-menu-div-active-background-color: #2563eb !important;
 }
+
+/* === MERMAID · MODO OSCURO === */
+
+:root[data-theme="dark"] .mermaid svg {
+  background: transparent !important;
+}
+
+/* Nodos */
+:root[data-theme="dark"] .mermaid .node rect,
+:root[data-theme="dark"] .mermaid .node circle,
+:root[data-theme="dark"] .mermaid .node ellipse,
+:root[data-theme="dark"] .mermaid .node polygon,
+:root[data-theme="dark"] .mermaid .node path {
+  fill: #172033 !important;
+  stroke: #6bb5e0 !important;
+}
+
+/* Texto de los nodos */
+:root[data-theme="dark"] .mermaid .nodeLabel,
+:root[data-theme="dark"] .mermaid .label,
+:root[data-theme="dark"] .mermaid .label text,
+:root[data-theme="dark"] .mermaid .label foreignObject,
+:root[data-theme="dark"] .mermaid .label foreignObject div,
+:root[data-theme="dark"] .mermaid text {
+  color: #f8fafc !important;
+  fill: #f8fafc !important;
+}
+
+/* Líneas y flechas */
+:root[data-theme="dark"] .mermaid .edgePath path,
+:root[data-theme="dark"] .mermaid .flowchart-link,
+:root[data-theme="dark"] .mermaid .messageLine0,
+:root[data-theme="dark"] .mermaid .messageLine1 {
+  stroke: #94a3b8 !important;
+}
+
+/* Puntas de flecha */
+:root[data-theme="dark"] .mermaid marker path {
+  fill: #94a3b8 !important;
+  stroke: #94a3b8 !important;
+}
+
+/* Texto situado sobre las conexiones */
+:root[data-theme="dark"] .mermaid .edgeLabel,
+:root[data-theme="dark"] .mermaid .edgeLabel p,
+:root[data-theme="dark"] .mermaid .edgeLabel span {
+  color: #e2e8f0 !important;
+  fill: #e2e8f0 !important;
+}
+
+/* Fondo del texto de las conexiones */
+:root[data-theme="dark"] .mermaid .edgeLabel {
+  background-color: #080f15 !important;
+}
+
+/* Subgráficos */
+:root[data-theme="dark"] .mermaid .cluster rect {
+  fill: #101827 !important;
+  stroke: #64748b !important;
+}
+
+:root[data-theme="dark"] .mermaid .cluster-label text,
+:root[data-theme="dark"] .mermaid .cluster-label span {
+  fill: #f8fafc !important;
+  color: #f8fafc !important;
+}
